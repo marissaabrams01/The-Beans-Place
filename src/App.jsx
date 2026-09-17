@@ -34,6 +34,7 @@ import FooterSection from "./components/FooterSection";
 import RibbonTicker from "./components/RibbonTicker";
 import FeaturesSection from "./components/FeaturesSection"; 
 import ProductShowcase from "./components/ProductShowcase";
+import AboutSection from "./components/AboutSection";
 
 // STEP 2: Create and export the App component
 // Use: export default function App() { ... }
@@ -96,7 +97,7 @@ export default function App(){
 
             {/* About */}
             <section className = "bg-cta" id = "about">
-
+            <AboutSection />
 
             </section>
 
