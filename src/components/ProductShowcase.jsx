@@ -233,7 +233,7 @@ export default function ProductShowcase(){
                                      <span className="product-badge">{product.badge}</span>
                                  )}
                             </div>
-                            <div classname="product-card-info">
+                            <div className="product-card-info">
                                 <div className="product-card-header">
                                     <h3>{product.name}</h3>
                                     <span className="product-price">{product.price}</span>

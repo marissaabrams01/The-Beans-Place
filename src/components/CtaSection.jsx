@@ -159,7 +159,7 @@ export default function CtaSection() {
                         <span className="cta-stat-label">Origins</span>
                     </div>
                     <div className="cta-stat-divider"/>
-                    <div claassName="cta-stat">
+                    <div className="cta-stat">
                         <span className="cta-stat-number">
                             <AnimatedCounter target={2400} suffix="+"/>
                         </span>
@@ -167,7 +167,7 @@ export default function CtaSection() {
                     </div>
                     <div className="cta-stat-label"/>
                     <div className="cta-stat">
-                        <span classNamee="cta-stat-number">
+                        <span className="cta-stat-number">
                             <AnimatedCounter target={48} suffic="hr"/>
                         </span>
                         <span className="cta-stat-label">Fresh Delivery</span>
